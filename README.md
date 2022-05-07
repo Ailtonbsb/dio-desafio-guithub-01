@@ -1,5 +1,5 @@
-# dio-desafio-guithub-01
-Desafio de Projeto sobre Git/GitHub
+#  Desafio de projeto Git/GitHub dio
+Repositório criado para o desafio de projeto.
 
 ## Links úteis
 [Sintaxe Básica Markedown](https://www.markdownguide.org/getting-started/)

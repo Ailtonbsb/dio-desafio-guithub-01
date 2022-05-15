@@ -1,7 +1,6 @@
 #  Olá, sou Ailton Macêdo!! 
 
-Estou fazendo uma transição de carreira profissional e comecei a estudar o curso de Analise e Desenvolvimento de Sistemas. Trabalhei em algumas empresas na área financeira e em grandes bancos, estou disposto em adiquirir e compartilhar novos conhecimentos.
-
+Estou fazendo uma transição de carreira profissional e comecei a estudar o curso de Analise e Desenvolvimento de Sistemas. Trabalhei em algumas empresas na área financeira e em grandes bancos no setor financeiro e comercial. Estou disposto colocar minhas habilidades em prática, colaborar com equipes de trabalho, adiquirir e compartilhar novos conhecimentos.
 
 <div align="center">
   <a href="https://github.com/Ailtonbsb">
